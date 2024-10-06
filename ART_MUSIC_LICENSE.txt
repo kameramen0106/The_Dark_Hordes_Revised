@@ -1,0 +1,43 @@
+AUDIO
+===============
+
+MUSIC
+---------------
+snowfall
+    by Jeremy Nicoll (GPL v2.0 or later)
+    https://forums.wesnoth.org/viewtopic.php?t=18311
+
+
+IMAGES
+===============
+
+HALO
+---------------
+darkens-aura-small
+gwiti-stationary-halo
+    made by kameramen by modifying pre-existing wesnoth images (GPL v2.0 or later)
+
+ITEMS
+---------------
+potion-cyan
+    from the Invasion from the Unknown campaign (GPL v2.0 or later)
+
+STORY
+---------------
+all made with modifications by kameramen from the original images (CC0)
+    tdh_intro_01 (Sagui Andrea): https://www.pexels.com/photo/snow-covered-mountain-during-sunrise-618833
+    tdh_intro_02 (Ray Bilcliff): https://www.pexels.com/photo/a-long-exposure-photograph-of-waves-crashing-on-rocks-27529223
+    tdh_story_02 (Sebastian Voortman): https://www.pexels.com/photo/body-of-water-during-golden-hour-189349
+
+TERRAIN
+---------------
+rain
+    from the To Lands Unknown campaign (GPL v2.0 or later)
+snow
+    by Grappe (CC0)
+    https://grappe.itch.io/pixelsnowing
+
+UNITS
+---------------
+gwiti
+    made by orcish shyde and kameramen by modifying pre-existing wesnoth images (GPL v2.0 or later)
