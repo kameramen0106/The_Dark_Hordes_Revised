@@ -3,9 +3,22 @@ AUDIO
 
 MUSIC
 ---------------
+gameplay06
+    by Aleksi (GPL v2.0 or later)
+    https://forums.wesnoth.org/viewtopic.php?t=14023
+
 snowfall
     by Jeremy Nicoll (GPL v2.0 or later)
     https://forums.wesnoth.org/viewtopic.php?t=18311
+
+SOUNDS
+---------------
+cave
+    from the Invasion from the Unknown campaign (CC0)
+
+dark_rainy_night
+    by kindland, edited by kameramen (CC0)
+    https://opengameart.org/content/rain-and-thunders
 
 
 IMAGES
@@ -21,6 +34,11 @@ ITEMS
 ---------------
 potion-cyan
     from the Invasion from the Unknown campaign (GPL v2.0 or later)
+
+SCENERY
+---------------
+gore
+    from the Eastern Invasion campaign (GPL v2.0 or later)
 
 STORY
 ---------------
